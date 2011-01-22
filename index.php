@@ -1,3 +1,5 @@
+Hello world!
+
 <?php
 /**
 * @version		$Id: index.php 11407 2009-01-09 17:23:42Z willebil $
